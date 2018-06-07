@@ -6,7 +6,7 @@ You can [view existing issues](https://github.com/DeskDirector/Issues/issues) or
 
 ## How to create a good Bug Report?
 
-If your bug report i s effective, chances are higher that it will get fixed. So fixing a bug depends on how effectively it's reported.
+If your bug report is effective, chances are higher that it will get fixed. So fixing a bug depends on how effectively it's reported.
 
 ### 1) Reproducible:
 
@@ -19,3 +19,7 @@ Do not write a essay about the problem. Be specific and to the point. Try to sum
 ### 3) Environment Details:
 
 Include the version of DeskDirector product you are using, the Operating System and the versions of the browser version. e.g. Web Portal, Windows 10, IE Edge 16, DeskDirector Server version 18.30.2.
+
+* Operation System
+* Browser Version
+* Which product. (Web Portal, Desktop Portal, Web Tech)
